@@ -13,14 +13,12 @@ const last_posts = posts.slice(0, 3);
   <div class="pb-12 mt-5">
     <div class="text-xl py-1">Hello there 👋</div>
     <div class="text-5xl font-bold">I'm Adham Dweck</div>
-    <div class="text-3xl py-3 font-bold">Computer Science Student and Aspiring Software Engineer; 
-</div>
+    <div class="text-3xl py-3 font-bold">Computer Science Student and Aspiring Software Engineer; </div>
     <div class="py-2">
       <text class="text-lg">
         Hello, My name is Adham Dweck, I am an Engineering student. 
         With 1 year of coding experience, they have helped me achieve my goal of reaching people who are likeminded. 
         When I am not working I am watching soccer or playing games.
-
       </text>
     </div>
     <div class="mt-8">
@@ -37,24 +35,24 @@ const last_posts = posts.slice(0, 3);
 
   <HorizontalCard
     title="BlackBox"
-    img="/AdhamD_Handsome_workingOnTheBlackBox.JPG"
+    img="/my-portfolio/AdhamD_Handsome_workingOnTheBlackBox.JPG"
     desc="Blackbox investigation find out whats inside but you cant open the box."
-    url="#"
+    url="/my-portfolio/#"
     badge="NEW"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
     title="Mobile App Work in Progress"
-    img="/post_img.webp"
+    img="/my-portfolio/post_img.webp"
     desc="N/A"
-    url="#"
+    url="/my-portfolio/#"
   />
   <div class="divider my-0"></div>
   <HorizontalCard
     title="Screenprint"
-    img="/Adham_Hands.JPG"
+    img="/my-portfolio/Adham_Hands.JPG"
     desc="Create a meaningful message learn different Photoshop tools to do so."
-    url="#"
+    url="/my-portfolio/#"
     badge="FOSS"
   />
 
@@ -67,9 +65,9 @@ const last_posts = posts.slice(0, 3);
       <>
         <HorizontalCard
           title={post.data.title}
-          img={post.data.heroImage}
+          img={post.data.heroImage ? "/my-portfolio" + post.data.heroImage : undefined}
           desc={post.data.description}
-          url={"/blog/" + createSlug(post.data.title, post.slug)}
+          url={"/my-portfolio/blog/" + createSlug(post.data.title, post.slug)}
           target="_self"
           badge={post.data.badge}
         />
