@@ -1,7 +1,7 @@
 ---
-title: "Demo Post 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 11 2022"
+title: "Blackbox"
+description: "Mysterious box find out whats inside without putting your hands in there."
+pubDate: "December 10 2024"
 heroImage: "/post_img.webp"
 ---
 

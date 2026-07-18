@@ -1,7 +1,7 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
+title: "Mobile App in developement"
+description: "Adham Dweck in a group to develope the best app ever"
+pubDate: "July 18 2026"
 heroImage: "/post_img.webp"
 tags: ["tokio"]
 ---
