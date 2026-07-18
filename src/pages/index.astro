@@ -65,9 +65,9 @@ const last_posts = posts.slice(0, 3);
       <>
         <HorizontalCard
           title={post.data.title}
-          img={post.data.heroImage ? "/my-portfolio" + post.data.heroImage : undefined}
+          img={post.data.heroImage}
           desc={post.data.description}
-          url={"/my-portfolio/blog/" + createSlug(post.data.title, post.slug)}
+          url={"/blog/" + createSlug(post.data.title, post.slug)}
           target="_self"
           badge={post.data.badge}
         />
