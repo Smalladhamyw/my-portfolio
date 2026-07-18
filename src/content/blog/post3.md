@@ -7,51 +7,10 @@ badge: "Demo badge"
 tags: ["rust","tokio"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
-
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
-
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+In Mr Sinusas’ class, we were tasked with making a meaningful design for a box that involved something from our bodies. We had to have an audience we wanted to target, so we refined and differentiated our designs using Photoshop. Then, we used Illustrator to create a visual representation to see how it might end up.
+I was inspired by DJ Khaled, who believes in god and wanted to make it something. He said, "They didn't believe in us; god did.” Then, I needed something good to represent it, and I reenacted a photo of my favorite soccer player's (Mohammed Salah) celebration. My intended audience was people who didn't believe in themselves or were unmotivated and needed a little push from a quote.
+We started by looking at the camera settings to determine the different settings, what they do, and their drawbacks. Then, we took pictures of our hands, eyes, heads, arms, etc., to make cool designs. I decided to go with a 1/1000 (0.001s) and an F5.6 for the eye to contrast its dark environment and brighten it up. Then, for my hands, I need it just to have a shadow between my hands, so I decided to go for 1/250 and F5.6.
+We went into Photoshop with these pictures to add detail, change the color to use them, and make them the way we envisioned them. I cut out the parts I wanted using the lasso tool and magic wand to cut out the layers. Then I tried to add a filter that made it black and white and then used a halftone filter on the eye and hands to make the little contrast of colors.
+>We used Illustrator to make a frame and other pieces needed, such as the screen and the actual design. Our next step was to set the frame up. I took a long piece of wood and measured out the size we needed, then used the saws to cut them out, then used glue and a stable gun to connect the wood pieces. After we measured out the mesh size we needed and started to stretch it out and stabilize it, we used those PNGs of single-color photos and printed them out. We had to pick out the details we needed and left things that would be the background color, and then we heated onto the mesh. We were ready to print!!
+What I enjoyed the most about this project was the screen printing itself, combining the paint, and how satisfying it was when we used the squiggy to put the paint and how clean it came out. I demonstrated demonstration leadership by going in head first into things I had never done before and then helping my little behind friends. What was most challenging for me was stretching because it was annoying as it kept slipping from my hand, which was an obstacle I had to overcome, which I did with my groupmates. I might use these techniques if I ever needed to cut wood or something with screen printing. I'd have prior knowledge now.
+The skills I used a lot were problem-solving and critical thinking because when I was gluing my wood together, there was a massive gap that appeared even tho we had all the angles right and all the pieces were the same. Then I figured out one piece was off my small amount, but it almost ruined my whole project, so I had to come back and cut off a little more. Another thing was when I was picking out my Venial. It had such small details that it didn't get cut out, so my group mate and I helped each other by holding a piece that should have been cut out and having him cut it out.
